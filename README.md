@@ -21,6 +21,7 @@ Programa desenvolvido em Java, com a finalidade de analisar o conteúdo HTML de 
 - Para instalar, executar no terminal:
 
 bash
+
     sudo apt-update
     sudo apt install default-jdk
 
