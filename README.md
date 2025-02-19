@@ -19,6 +19,7 @@ Programa desenvolvido em Java, com a finalidade de analisar o conteúdo HTML de 
 
 ### Instalando JDK via terminal Linux(Ubuntu/Debian):
 - Para instalar, executar no terminal:
+
 bash
     sudo apt-update
     sudo apt install default-jdk
