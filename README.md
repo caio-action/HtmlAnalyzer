@@ -40,11 +40,15 @@ cd /caminho/para/o/projeto
 
 Compile o programa:
 1. Compilar o programa no terminal:
+2. 
 bash
+
    javac HtmlAnalyzer.java
 
-2. Executar passando uma URL:(exemplos)
+4. Executar passando uma URL:(exemplos)
+
 bash
+
    java HtmlAnalyzer http://hiring.axreng.com/internship/example1.html
 # Saída: "Este é o título."
 
