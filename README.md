@@ -26,7 +26,9 @@ bash
     sudo apt install default-jdk
 
 Verifique utilizando: 
+
 bash
+
     java --version
 
 
